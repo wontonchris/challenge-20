@@ -4,19 +4,19 @@ function Main() {
   return (
     <main className="section">
       <div className="container">
-        <h2 className="has-text-white title is-2">Work</h2>
+        <h1 className="has-text-white title is-2">Work</h1>
         <div className="content">
           <p>
-            <a className="has-text-primary" href="https://youtu.be/D4Elu1HraaU">IT|Tech Support</a>
+            <a className="has-text-white button is-link" href="https://youtu.be/D4Elu1HraaU">IT|Tech Support</a>
           </p>
           <p>
-            <a className="has-text-primary" href="https://bite-buddy23-22fb9ad56b45.herokuapp.com/">Bite Buddy App</a>
+            <a className="has-text-white button is-link" href="https://bite-buddy23-22fb9ad56b45.herokuapp.com/">Bite Buddy App</a>
           </p>
           <p>
-            <a className="has-text-primary" href="https://github.com/wontonchris">GitHub Repo</a>
+            <a className="has-text-white button is-link" href="https://github.com/wontonchris">GitHub Repo</a>
           </p>
           <p>
-            <a className="has-text-primary" href="https://gitlab.com/wontonchris">GitLab Repo</a>
+            <a className="has-text-white button is-link" href="https://gitlab.com/wontonchris">GitLab Repo</a>
           </p>
         </div>
       </div>

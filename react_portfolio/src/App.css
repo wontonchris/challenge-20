@@ -5,6 +5,13 @@
   text-align: center;
 }
 
+body {
+  background-image: url('https://static.vecteezy.com/system/resources/previews/001/222/383/original/topographic-map-banner-design-vector.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 /* .logo {
   height: 6em;
   padding: 1.5em;

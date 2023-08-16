@@ -5,6 +5,7 @@ import Header from './components/Header'
 import Main from './components/Main'
 import AboutMe from './components/AboutMe'
 import Footer from './components/Footer'
+import BannerProfile from './components/BannerProfile'
 
 
 function App() {
@@ -15,6 +16,8 @@ function App() {
       <Header />
 
       <Navbar />
+
+      <BannerProfile />
 
       <AboutMe />
 
