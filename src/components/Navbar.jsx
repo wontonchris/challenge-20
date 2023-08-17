@@ -10,6 +10,7 @@ function Navbar() {
           <li><Link to="about" smooth={true}>About Me</Link></li>
           <li><Link to="contact" smooth={true}>Contact</Link></li>
           <li><Link to="work" smooth={true}>Work</Link></li>
+          <li><Link to="spotify" smooth={true}>♫ Playlist</Link></li>
         </ul>
       </div>
     </nav>
