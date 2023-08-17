@@ -2,6 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
+    <div id="contact">{
     <footer className="footer has-background-primary">
       <div className="content has-text-centered">
         <div className="columns is-centered">
@@ -17,6 +18,7 @@ function Footer() {
         </div>
       </div>
     </footer>
+}</div>
   );
 }
 

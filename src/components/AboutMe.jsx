@@ -2,6 +2,8 @@ import React from "react";
 
 function AboutMe() {
   return (
+    
+    <div id="about">{
     <section className="section">
       <div className="container">
         <div className="content">
@@ -17,6 +19,7 @@ function AboutMe() {
         </div>
       </div>
     </section>
+}</div>
   );
 }
 

@@ -2,6 +2,7 @@ import React from "react";
 
 function Body() {
   return (
+    <div id="work">{
     <main className="section">
       <div className="container">
         <h1 className="has-text-white title is-2">Work</h1>
@@ -20,7 +21,8 @@ function Body() {
           </p>
         </div>
       </div>
-    </main>
+    </main>}
+    </div>
   );
 }
 
